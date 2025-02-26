@@ -1,2 +1,2 @@
 # sigma-demo
-this is a demo for learning
+this is a demo for learning.
